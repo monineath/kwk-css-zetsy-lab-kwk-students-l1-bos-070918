@@ -64,3 +64,11 @@ body {
     font-size: 100%;
     font-family: 'Times New Roman', serif;
 }
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
