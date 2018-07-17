@@ -65,3 +65,8 @@ body {
     font-family: 'Times New Roman', serif;
 }
 
+p {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
