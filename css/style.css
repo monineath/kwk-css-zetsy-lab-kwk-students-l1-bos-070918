@@ -22,6 +22,10 @@ body {
 #featured img {
     border: 5px rgb(152,173,166) solid;
 }
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
+}
 
 header a {
     color: rgb(152,173,166);
